@@ -1,12 +1,12 @@
 ## 🧠 About Me 
-Hello everybody, I am Harpreet - I find myself in the endevour to explore the intersection between **NeuroAI**, **Machine Learning**, and **Neuropathologies**.
+Hello everybody, I am Harpreet - I find myself in the endeavour to explore the intersection between **NeuroAI**, **Machine Learning**, and **Neuropathologies**.
 
 I have a background in biomedical sciences and I enjoy building models inspired by biological systems, implementing them with cognitive simulations, analysing neural activity, and blending neuroscience with computational creativity.
 
-Artifical intelligence can mimic - or learn from - biological intelligence. 
+Artificial intelligence can mimic - or learn from - biological intelligence. 
 My goal is to gather data, insights, and eventually develop systems that support neurological function, or help scaffold cognitive deficit caused by any sort of neuropathology. 
 
-I am self-taught, and constructuve criticism is always welcomed, if it helps me grow.
+I am self-taught, and constructive criticism is always welcomed, if it helps me grow.
 - 🧠 [neuron vs perceptron](https://github.com/harleone/neuron-vs-perceptron)
   comparing the activity between a biological neuron with an artificial neuron
 - 🧬[cognitive_path_finder](https://github.com/harleone/cognitive_path_finder)
@@ -16,7 +16,7 @@ I am self-taught, and constructuve criticism is always welcomed, if it helps me 
 - ⚡[EEG_seizure_detection](https://github.com/harleone/EEG_seizure_detector)
   Work-in-progress pipeline for identifying seizure activity.
 - 🧩[memory_insilico](https://github.com/harleone/memory_insilico)
-  Experiments with memory mechanims and neural-inspired dynamics.
+  Experiments with memory mechanisms and neural-inspired dynamics.
 - 🌟[Harleone (Fibonacci Spiral)](https://github.com/harleone/Harleone)
     Personal artistic project blending sacred geometry with computational creativity
 
